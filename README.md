@@ -1,8 +1,6 @@
-
-# 🌍 Space Reentry Environmental Jury
+🌍 Space Reentry Environmental Jury
 
 Grok × Gemini × ChatGPT · Human Main Judge
-
 太空再入環境陪審團 · 三 AI × 人類主審
 
 ⸻
@@ -39,7 +37,7 @@ This repository explores:
 	•	ChatGPT — 治理制度、法律、倫理、多國政策
 
 AI 僅提供建議；
-所有 最終裁決權 屬於 人類主審。
+所有最終裁決權屬於人類主審。
 
 本庫討論範圍包括：
 	•	衞星再入排放與平流層污染
@@ -51,7 +49,6 @@ AI 僅提供建議；
 ⸻
 
 📚 Repository Structure / 資料夾結構
-
 docs/
   00_Overview/
   01_Atmospheric_Damage/
@@ -71,7 +68,6 @@ meta/
 🔐 Sovereignty & License / 主權與授權聲明
 
 © 2025 LORI Framework – All Rights Reserved.
+
 AI systems (Grok, Gemini, ChatGPT) act only as advisory jurors and do not hold ownership or authorship.
 All final decisions remain under the sovereignty of the Human Main Judge.
-
-
