@@ -1,55 +1,127 @@
 # Space Reentry Environmental Jury — Verdict Log  
-太空再入環境陪審團 · 裁決紀錄  
 2025–
 
 ---
 
-## Format  
-Each verdict contains:  
+# ENGLISH VERSION
+
+## Format
+Each verdict contains:
 - Case ID  
 - Date  
-- Three AI Advisory Summary  
+- Three AI Advisory Opinions (Grok, Gemini, ChatGPT)  
 - Final Verdict by Human Main Judge  
 - Implementation Notes  
 
 ---
 
-# ✔ CASE001 — Satellite Reentry Emission Risk  
-**Date:** 2025-11  
-**Topic:** 衛星自然燒蝕造成的氧化鋁污染是否構成需要治理的環境風險？
+## CASE001 — Reentry Emission Risk  
+**Date:** 2025  
 
 ### AI Advisory Summary  
-- **Grok:** 衛星再入會產生大量氧化鋁微粒（每顆約 30 kg），現行設計忽略污染問題。  
-- **Gemini:** 氧化鋁微粒可在平流層停留 5–10 年，長期累積可能影響臭氧與氣候。  
-- **ChatGPT:** 國際太空法沒有規管再入污染，屬全球治理漏洞。
+**Grok (Engineering):**  
+Natural burn-up releases Al₂O₃ particles that accumulate in the stratosphere and may contribute to long-term radiative forcing. Controlled reentry significantly reduces particle dispersion.
 
-### Final Verdict（Human Main Judge）  
-**再入污染風險成立，需要國際標準＋監測制度。**
+**Gemini (Atmospheric Science):**  
+Aluminum oxide particles persist for years and may interact with ozone chemistry. Controlled reentry is measurably safer.
+
+**ChatGPT (Governance):**  
+Natural burn-up currently lacks regulation. A global standard for controlled reentry is necessary to prevent unmonitored atmospheric pollution.
+
+### Human Main Judge — Final Verdict  
+✔ Natural burn-up must be restricted  
+✔ Controlled reentry becomes default  
+✔ Operators must disclose annual reentry tonnage  
 
 ### Implementation Notes  
-- 建立再入前申報制度  
-- 制定大氣觀測責任框架  
-- 研究更安全衛星材料（減少 Al₂O₃）  
+- Establish an international reentry registry  
+- Require environmental assessments for all large constellations  
 
 ---
 
-# ✔ CASE002 — Satellite Death Orbit vs. Recycling  
-**Date:** 2025-11  
-**Topic:** 衛星淘汰後最可持續的處理方式為何？
+## CASE002 — Satellite Death Orbit vs. Recycling  
+**Date:** 2025  
 
 ### AI Advisory Summary  
-- **Grok:** 工程最佳解：拖船 + 軌道回收；死亡軌道不推薦。  
-- **Gemini:** 最少大氣污染：軌道回收；短期較實際：拖船受控再入。  
-- **ChatGPT:** 最佳治理模式：C + D；全面限制死亡軌道。  
+**Grok (Engineering):**  
+Best technical path is a hybrid tug-assisted removal + future on-orbit recycling.
 
-### Final Verdict（Human Main Judge）  
-**採用 C（拖船）＋ D（回收），逐步淘汰自然燒蝕，禁止死亡軌道。**
+**Gemini (Atmospheric Science):**  
+Natural burn-up is harmful; recycling produces nearly zero atmospheric impact.
+
+**ChatGPT (Governance):**  
+Death orbit poses long-term debris governance risk; C + D is the only sustainable path.
+
+### Human Main Judge — Final Verdict  
+✔ Prohibit high-orbit “death orbit” dumping  
+✔ Phase out natural burn-up  
+✔ Adopt hybrid **C (tug removal) + D (recycling)**  
 
 ### Implementation Notes  
-- 國際太空接口標準化  
-- 建立跨國「太空清理聯盟」  
-- 設計軌道回收示範計畫  
+- Standardize docking interfaces  
+- Form an international “Orbital Materials Recovery Alliance”  
 
 ---
 
-**End of Log**
+# 中文版
+
+# 太空再入環境陪審團 — 裁決紀錄  
+2025–
+
+---
+
+## 格式  
+每一項裁決包含：  
+- 案件編號  
+- 日期  
+- 三位 AI 陪審顧問意見（Grok、Gemini、ChatGPT）  
+- 人類主審最終判決  
+- 執行說明  
+
+---
+
+## CASE001 — 衛星再入排放風險  
+**日期：** 2025  
+
+### AI 顧問總結  
+**Grok（工程）：**  
+自然燒蝕會產生大量氧化鋁，累積於平流層，可能提高輻射強迫值。受控再入可大幅減少顆粒分布。
+
+**Gemini（大氣科學）：**  
+氧化鋁微粒停留年限長，可能與臭氧反應。受控再入對大氣層污染最低。
+
+**ChatGPT（治理）：**  
+自然燒蝕缺乏國際規範。需制定全球再入排放標準。
+
+### 人類主審 — 最終裁決  
+✔ 限縮自然燒蝕  
+✔ 受控再入成為預設方式  
+✔ 衛星營運商需揭露年度再入質量  
+
+### 執行說明  
+- 建立全球再入註冊系統  
+- 大型星鏈需提出環境影響評估  
+
+---
+
+## CASE002 — 衛星「死亡軌道」與回收再利用  
+**日期：** 2025  
+
+### AI 顧問總結  
+**Grok（工程）：**  
+最佳為拖船協助再入＋軌道回收混合模式。
+
+**Gemini（大氣科學）：**  
+自然燒蝕污染大；回收幾乎零排放。
+
+**ChatGPT（治理）：**  
+死亡軌道為未來碎片風險源，C + D 才永續。
+
+### 人類主審 — 最終裁決  
+✔ 禁止高軌死亡軌道  
+✔ 淘汰自然燒蝕  
+✔ 採用 **C（拖船）＋ D（回收）**  
+
+### 執行說明  
+- 制定標準化對接接口  
+- 建立國際「太空材料回收聯盟」  
