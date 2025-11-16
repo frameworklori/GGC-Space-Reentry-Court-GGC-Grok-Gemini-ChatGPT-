@@ -3,6 +3,7 @@ Space Reentry Environmental Jury · 05_Jury_Deliberations
 
 ---
 
+
 ## 1. Case Summary  
 
 **Issue:**  
