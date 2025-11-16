@@ -1,5 +1,5 @@
 
-# ⭐ Satellite Recycling Cost–Benefit Evaluation
+# Satellite Recycling Cost–Benefit Evaluation
 
 (Top: English Version → Bottom: Chinese Version)
 
