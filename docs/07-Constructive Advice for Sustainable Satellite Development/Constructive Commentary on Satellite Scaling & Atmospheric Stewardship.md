@@ -1,4 +1,4 @@
-🌐 Constructive Commentary on Satellite Scaling & Atmospheric Stewardship
+# 🌐 Constructive Commentary on Satellite Scaling & Atmospheric Stewardship
 
 1. Acknowledging the value of modern space technology
 
