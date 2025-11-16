@@ -1,5 +1,5 @@
 
-🌍 Satellite Governance Non-Replication Framework (Public Discussion )
+# 🌍 Satellite Governance Non-Replication Framework (Public Discussion )
 
 Why the world needs a calm, rational conversation on satellite scale and atmospheric impact
 
