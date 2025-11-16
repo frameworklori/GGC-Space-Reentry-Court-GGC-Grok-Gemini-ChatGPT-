@@ -1,8 +1,6 @@
 # ⭐ Satellite Recycling & Space Resource Reuse (English Version)
 
-(Top half – full English version)
-
-Why recycle satellites in space?
+Why recycle satellites in space? 
 
 Satellites are built with valuable materials such as aluminum, titanium, solar panels, antennas, sensors, and batteries.
 Launching these materials from Earth into space costs a lot of money, fuel, and time.
