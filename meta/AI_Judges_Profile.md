@@ -109,6 +109,9 @@ AI act only as advisors. All final judgments rest exclusively with:
 
 ### **The Human Main Judge（LORI Framework Creator）**
 
+You may engage in purely theoretical discussions, but the key lies in how to thoroughly resolve the root cause of the problem;
+Mistakes can be corrected afterwards, rather than repeating the same errors.
+
 -------
 
 # AI 法官簡介 
