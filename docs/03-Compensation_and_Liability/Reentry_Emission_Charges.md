@@ -45,3 +45,36 @@ A pricing model must consider:
 - burn-up telemetry logs  
 
 ### Proposed Calculation Formula  
+Emission Charge = (Al₂O₃ mass × Persistence Factor × Climate Impact Index)
+
+plus:
+Debris Surcharge = (Remaining mass × casualty probability)
+
+工程結論：可將排放費與工程參數直接掛勾。
+
+---
+
+# 4. ChatGPT Governance Structure  
+治理陪審員：ChatGPT
+
+### Policy Model  
+Three levels:
+1. **Base rate** for each satellite re-entry  
+2. **Mass multiplier** (higher for large satellites)  
+3. **Pollution multiplier** (if using aluminum)
+
+### Governance Advantages  
+- Internalizes environmental cost  
+- Creates incentive for cleaner materials  
+- Enables funding for atmospheric monitoring  
+- Simple to adopt into international licensing
+
+---
+
+# 5. Human Main Judge Summary  
+（由你填寫）
+
+- 是否支持 Al₂O₃ 排放費：___  
+- 是否按重量與材料比例課徵：___  
+- 排放費收入是否投入全球監測系統：___  
+
