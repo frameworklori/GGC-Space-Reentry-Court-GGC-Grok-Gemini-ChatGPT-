@@ -111,7 +111,8 @@ AI act only as advisors. All final judgments rest exclusively with:
 
 -------
 
-# AI 法官簡介  
+# AI 法官簡介 
+
 太空重返環境陪審團 · meta/
 
 本文件描述三位參與的 AI 陪審員——**Grok**、**Gemini** 和 **ChatGPT**——的角色、推理風格及決策理念。
@@ -209,6 +210,7 @@ AI act only as advisors. All final judgments rest exclusively with:
 ---
 
 # ⚖️ AI陪審員互動風格總結  
+
 - **Grok** →「能造得出來嗎？」  
 - **Gemini** →「大氣能承受得住嗎？」  
 - **ChatGPT** →「全球能否合理治理？」
@@ -216,4 +218,5 @@ AI act only as advisors. All final judgments rest exclusively with:
 AI 僅作為顧問。所有最終判決均專屬於：
 
 ### **人類主審法官（LORI 框架創建者）**
+
 
