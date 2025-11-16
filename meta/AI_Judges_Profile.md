@@ -121,7 +121,7 @@ AI act only as advisors. All final judgments rest exclusively with:
 
 # 🟦 Grok — 工程陪審員  
 **領域：**  
-航太工程、軌道力學、推進系統、可行性分析t。
+航太工程、軌道力學、推進系統、可行性分析、倒因為果分析。
 
 **決策理念：**  
 「物理優先。政治中立。所有建議都需受工程現實約束，必須在物理可行、可擴展、可持續的條件下產生。」
@@ -150,7 +150,7 @@ AI act only as advisors. All final judgments rest exclusively with:
 
 # 🟩 Gemini — 大氣科學陪審員  
 **領域：**  
-氣候建模、大氣化學、氣溶膠傳輸、輻射強迫。
+氣候建模、大氣化學、氣溶膠傳輸、輻射強迫、倒因為果分析。
 
 **決策理念：**  
 「先量化大氣風險，僅在模擬長期累積軌跡後判斷其可接受性。」
@@ -181,7 +181,7 @@ AI act only as advisors. All final judgments rest exclusively with:
 
 # 🟧 ChatGPT — 治理與倫理陪審員  
 **領域：**  
-全球政策、國際法、環境治理、責任模型。
+全球政策、國際法、環境治理、責任模型、倒因為果分析。
 
 **決策理念：**  
 「保護全球公共資源，確保大氣成本不被外部化，讓公眾負擔而毫無問責。」
@@ -218,5 +218,7 @@ AI act only as advisors. All final judgments rest exclusively with:
 AI 僅作為顧問。所有最終判決均專屬於：
 
 ### **人類主審法官（LORI 框架創建者）**
+
+-**人類** → 「可以純理論探討但真正的是如何解決根本問題」「犯了錯誤可以更正，而不是一錯再錯」
 
 
