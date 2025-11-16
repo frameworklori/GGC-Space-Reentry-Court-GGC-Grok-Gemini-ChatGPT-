@@ -1,4 +1,4 @@
-# ⭐ Satellite Recycling & Space Resource Reuse (English Version)
+# ⭐ Satellite Recycling & Space Resource Reuse 
 
 Why recycle satellites in space? 
 
